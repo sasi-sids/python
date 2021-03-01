@@ -1,7 +1,8 @@
 print("Hello world")
 
 def net(msg):
-    // Adding a diff. comment
+    // Adding a comment diff.
+    // from pi2
     print(msg)
 net("Hello World")
 
